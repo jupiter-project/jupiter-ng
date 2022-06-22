@@ -7,7 +7,7 @@ parent:
   <h1> Jupiter </h1>
 </div>
 
-![banner](docs/ethermint.jpg)
+![banner](docs/jupiter.mp4)
 
 <div align="center">
   <a href="https://github.com/tharsis/ethermint/releases/latest">
@@ -38,7 +38,7 @@ parent:
   </a>
 </div>
 
-Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) which runs on top of [Tendermint Core](https://github.com/tendermint/tendermint) consensus engine.
+Jupiter is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) which runs on top of [Tendermint Core](https://github.com/tendermint/tendermint) consensus engine. We use the Ethermint version of [Tendermint](https://www.github.com/tharsis/evmos). 
 
 **Note**: Requires [Go 1.17+](https://golang.org/dl/)
 
