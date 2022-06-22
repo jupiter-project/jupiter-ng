@@ -7,7 +7,7 @@ parent:
   <h1> Jupiter </h1>
 </div>
 
-![banner](docs/jupiter.mp4)
+![banner](docs/jupiter.png)
 
 <div align="center">
   <a href="https://github.com/tharsis/ethermint/releases/latest">
