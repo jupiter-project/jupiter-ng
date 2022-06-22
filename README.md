@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Ethermint </h1>
+  <h1> Jupiter </h1>
 </div>
 
 ![banner](docs/ethermint.jpg)
@@ -62,17 +62,12 @@ For an example on how Ethermint can be used on any Cosmos-SDK chain, please refe
 
 The following chat channels and forums are a great spot to ask questions about Ethermint:
 
-- [Evmos Twitter](https://twitter.com/EvmosOrg)
-- [Evmos Discord](https://discord.gg/trje9XuAmy)
-- [Evmos Telegram](https://t.me/EvmosOrg)
-- [Tharsis Twitter](https://twitter.com/TharsisHQ)
+- [Jupiter Twitter](https://twitter.com/jup_project)
+- [Jupiter Discord](https://jup.io/discord)
+- [Jupiter Telegram](https://t.me/jupiterproject)
 
 ## Contributing
 
 Looking for a good place to start contributing? Check out some [`good first issues`](https://github.com/tharsis/ethermint/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
 For additional instructions, standards and style guides, please refer to the [Contributing](./CONTRIBUTING.md) document.
-
-## Careers
-
-See our open positions on [Cosmos Jobs](https://jobs.cosmos.network/project/evmos-d0sk1uxuh-remote/), [Notion](https://tharsis.notion.site), or feel free to [reach out](mailto:careers@thars.is) via email.
